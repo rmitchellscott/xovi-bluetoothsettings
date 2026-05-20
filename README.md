@@ -6,6 +6,10 @@
 
 Adds a Bluetooth settings page to xochitl, allowing pairing and management of Bluetooth keyboards directly from the reMarkable UI.
 
+Bluetooth will need to be enabled after every tablet reboot. 
+
+At this time, the Airplane quick settings button does not impact Bluetooth. 
+
 <img src="assets/bluetoothSettings-screenshot.png" height="400"/>
 
 ## Installation
